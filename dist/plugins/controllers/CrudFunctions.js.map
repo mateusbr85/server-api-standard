@@ -1,0 +1,1 @@
+{"version":3,"file":"CrudFunctions.js","sourceRoot":"","sources":["../../../src/plugins/controllers/CrudFunctions.ts"],"names":[],"mappings":";;;AAAA,wDAA+C;AAG/C,MAAM,SAAS,GAAG,KAAK,EAAE,KAAa,EAAiC,EAAE;IACrE,OAAO,MAAM,IAAA,iBAAI,EAAC,4BAA4B,CAAC,CAAC,MAAM,CAAC,YAAY,EAAC,aAAa,EAAC,WAAW,CAAC,CAAC,KAAK,CAAC,YAAY,EAAC,KAAK,CAAC,CAAA;AAC5H,CAAC,CAAA;AAEO,8BAAS"}
